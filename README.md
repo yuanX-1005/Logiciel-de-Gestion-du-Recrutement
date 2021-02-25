@@ -1,2 +1,2 @@
 # Logiciel-de-Gestion-du-Recrutement
- Logiciel qui faciliter le processus de recrutement
+ Un logiciel développe en SQL sur Access qui permet de faciliter le processus de recrutement.
